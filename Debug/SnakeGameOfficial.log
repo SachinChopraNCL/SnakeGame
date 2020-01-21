@@ -1,0 +1,16 @@
+﻿  Button.cpp
+  Entity.cpp
+  Snake.cpp
+C:\Users\Sachi\source\repos\SnakeGameOfficial\SnakeGameOfficial\Snake.cpp(78,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Sachi\source\repos\SnakeGameOfficial\SnakeGameOfficial\Snake.cpp(78,42): warning C4244:         with
+C:\Users\Sachi\source\repos\SnakeGameOfficial\SnakeGameOfficial\Snake.cpp(78,42): warning C4244:         [
+C:\Users\Sachi\source\repos\SnakeGameOfficial\SnakeGameOfficial\Snake.cpp(78,42): warning C4244:             T=unsigned int
+C:\Users\Sachi\source\repos\SnakeGameOfficial\SnakeGameOfficial\Snake.cpp(78,42): warning C4244:         ]
+C:\Users\Sachi\source\repos\SnakeGameOfficial\SnakeGameOfficial\Snake.cpp(86,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Sachi\source\repos\SnakeGameOfficial\SnakeGameOfficial\Snake.cpp(86,49): warning C4244:         with
+C:\Users\Sachi\source\repos\SnakeGameOfficial\SnakeGameOfficial\Snake.cpp(86,49): warning C4244:         [
+C:\Users\Sachi\source\repos\SnakeGameOfficial\SnakeGameOfficial\Snake.cpp(86,49): warning C4244:             T=unsigned int
+C:\Users\Sachi\source\repos\SnakeGameOfficial\SnakeGameOfficial\Snake.cpp(86,49): warning C4244:         ]
+  Generating Code...
+C:\Users\Sachi\source\repos\SnakeGameOfficial\SnakeGameOfficial\Snake.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+  SnakeGameOfficial.vcxproj -> C:\Users\Sachi\source\repos\SnakeGameOfficial\Debug\SnakeGameOfficial.exe
